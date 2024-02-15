@@ -9,3 +9,9 @@ This is a dummy portfolio which will showcase my work
 
 
 ![image](images/histogram-example-2.png)
+
+
+# This is a link to my github
+
+[Github link](https://github.com/a-s-munaf)
+
