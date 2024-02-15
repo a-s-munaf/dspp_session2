@@ -7,4 +7,5 @@ This is a dummy portfolio which will showcase my work
 
 # This is my first image
 
-![image]images/histogram-example-2.png
+
+![image](images/histogram-example-2.png)
